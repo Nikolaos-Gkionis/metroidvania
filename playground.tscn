@@ -1,10 +1,5 @@
 [gd_scene format=3 uid="uid://b270y60t5afyc"]
 
-[ext_resource type="Texture2D" uid="uid://duqqseq8st18t" path="res://orestes-fate.png" id="1_rupst"]
+[node name="Playground" type="Node2D" unique_id=1623977402]
 
-[node name="Node2D" type="Node2D" unique_id=1623977402]
-
-[node name="OrestesFate" type="Sprite2D" parent="." unique_id=1076353969]
-position = Vector2(319, 170)
-scale = Vector2(0.099609375, 0.09521484)
-texture = ExtResource("1_rupst")
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1693239863]
